@@ -1,5 +1,5 @@
 # ServiceNow-Projects
-Streamlining Ticket Assignment for Efficient Support Operations Project
+**Streamlining Ticket Assignment for Efficient Support Operations Project**
 #User Creation Steps
 - Open ServiceNow and navigate to "All" > "Users" under "System Security".
 - Click "New" and enter User ID, First Name, Last Name, Email then submit.
